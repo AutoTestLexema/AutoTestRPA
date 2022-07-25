@@ -20,7 +20,6 @@
 * Нажмите два раза по модулю Excel 
 ![image](https://user-images.githubusercontent.com/107256556/174528369-bb56120e-ba5f-431d-810a-65439a3ea6b7.png)
 * Проверьте что путь к файлу Excel, который вы скачали из репозитория, верный. Нажмите на открыть папку, выберите файл Excel и нажмите **Сохранить**
-![image](https://user-images.githubusercontent.com/107256556/174528946-3c3a6c16-7672-4814-a34c-0f555b71533d.png)
 ![image](https://user-images.githubusercontent.com/107256556/174529114-47d90a43-d063-4920-b0a2-37dcd1857b6f.png)
 * После загрузки файла в проект, нажмите кнопку **Запустить робота**;
 
